@@ -1,5 +1,5 @@
 # hyperledger-fabric-linux-amd64-1.2.0-rc1
-For the slow network, I pull it here for quick download necessityi.
+For the slow network, I pull it here for quick download necessity.
 
 Downloaded the latest(till 7/18/2018) version of hyperledger-fabric-ca-linux-amd64-1.2.0-rc1 and hyperledger-fabric-linux-amd64-1.2.0-rc1 in [fabric](https://github.com/hyperledger/fabric) v1.2.0 [bootstrap.sh](https://hyperledger-fabric.readthedocs.io/en/latest/install.html)
  FROM
